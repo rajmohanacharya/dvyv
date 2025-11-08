@@ -1,15 +1,14 @@
 const CACHE_NAME = 'dvyv-cache-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/css/style.css',
-  '/js/demo-app.js',
-  '/js/components.js',
-  '/js/demo-data.js',
-  '/manifest.json',
-  '/icons/icon-72x72.png',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png'
+  '/dvyv/',
+  '/dvyv/index.html',
+  '/dvyv/css/style.css',
+  '/dvyv/js/demo-app.js',
+  '/dvyv/js/demo-data.js',
+  '/dvyv/manifest.json',
+  '/dvyv/icons/icon-72x72.png',
+  '/dvyv/icons/icon-192x192.png',
+  '/dvyv/icons/icon-512x512.png'
 ];
 
 // Install Service Worker
