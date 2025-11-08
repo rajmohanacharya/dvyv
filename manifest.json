@@ -2,7 +2,7 @@
   "name": "DVYV Community",
   "short_name": "DVYV",
   "description": "Dakshina Kannada Vishwabrahmana Yuva Vedike - Community Platform",
-  "start_url": "/",
+  "start_url": "/dvyv/"
   "display": "standalone",
   "background_color": "#f97316",
   "theme_color": "#f97316",
